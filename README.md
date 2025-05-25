@@ -62,5 +62,11 @@ Links
 GitHub Repository: https://github.com/surajpandey111/AI_Powered_Schemes
 Live Demo: https://aipowered-govt-schemes.streamlit.app/
 
+Developed by
+Suraj Kumar Pandey(Team leader)
+Kritika Pandey
+Divyansh Vishwakarma
+Rajeev Rajesh
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
