@@ -56,7 +56,6 @@ Proof of Work
 The chatbot has been tested and deployed successfully. Below is a screenshot demonstrating its functionality, where it recommends the UP Scholarship for a 10th-grade student from Maharashtra:
 
 Team Participants
-
 Suraj Kumar Pandey(Team Leader)
 Kritika Pandey
 Divyansh Vishwakarma
