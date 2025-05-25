@@ -55,14 +55,6 @@ Check the "Proof of Work" section on the app for a screenshot of the chatbot in 
 Proof of Work
 The chatbot has been tested and deployed successfully. Below is a screenshot demonstrating its functionality, where it recommends the UP Scholarship for a 10th-grade student from Maharashtra:
 
-You can also view this on the live app under the "Proof of Work" section.
-Project Structure
-
-app.py: Main Streamlit script for the chatbot interface.
-requirements.txt: List of dependencies.
-proof_of_work.png: Screenshot of the chatbot in action.
-README.md: This file.
-
 Team Participants
 
 Suraj Kumar Pandey(Team Leader)
