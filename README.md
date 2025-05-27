@@ -48,12 +48,12 @@ The app will open in your default browser at http://localhost:8501.
 Usage
 
 Open the app locally or visit the live demo: https://aipowered-govt-schemes.streamlit.app/.
-Enter your details (e.g., "I’m a 10th-grade student from Maharashtra") in the input field.
+Enter your details (e.g., "I’m a 10th-grade student from Uttar Pradesh") in the input field.
 The chatbot will respond with relevant schemes, eligibility criteria, and application steps.
 Check the "Proof of Work" section on the app for a screenshot of the chatbot in action.
 
 Proof of Work
-The chatbot has been tested and deployed successfully. Below is a screenshot demonstrating its functionality, where it recommends the UP Scholarship for a 10th-grade student from Maharashtra:
+The chatbot has been tested and deployed successfully. Below is a screenshot demonstrating its functionality, where it recommends the UP Scholarship for a 10th-grade student from Uttar Pradesh:
 
 Contributing
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes. For major updates, open an issue first to discuss your ideas.
