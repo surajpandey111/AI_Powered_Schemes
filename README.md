@@ -54,6 +54,8 @@ Check the "Proof of Work" section on the app for a screenshot of the chatbot in 
 
 Proof of Work
 The chatbot has been tested and deployed successfully. Below is a screenshot demonstrating its functionality, where it recommends the UP Scholarship for a 10th-grade student from Uttar Pradesh:
+![Screenshot 2025-05-27 123106](https://github.com/user-attachments/assets/6e61034c-d162-4e18-aa77-0a85da64d925)
+
 
 Contributing
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes. For major updates, open an issue first to discuss your ideas.
