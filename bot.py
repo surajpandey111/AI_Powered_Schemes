@@ -10,7 +10,7 @@ import re
 
 
 genai.configure(api_key=os.getenv("GEMINI_API_KEY", "your-actual-api-key"))
-gemini = genai.GenerativeModel("gemini-2.0-flash")
+gemini = genai.GenerativeModel("gemini-2.5-flash-lite")
 
 
 def load_and_split_documents():
